@@ -1,3 +1,5 @@
+**Warning: development has moved to https://github.com/openshift/ci-tools.git**
+
 # ci-operator
 
 ci-operator automates and simplifies the process of building and testing
